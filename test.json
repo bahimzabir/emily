@@ -1,0 +1,50 @@
+{
+    "_bodyBlob": {
+        "_data": {
+            "__collector": [Object
+            ],
+            "blobId": "a04088aa-8ee4-4d92-abcd-c67374c69795",
+            "offset": 0,
+            "size": 432
+        }
+    },
+    "_bodyInit": {
+        "_data": {
+            "__collector": [Object
+            ],
+            "blobId": "a04088aa-8ee4-4d92-abcd-c67374c69795",
+            "offset": 0,
+            "size": 432
+        }
+    },
+    "bodyUsed": false,
+    "headers": {
+        "map": {
+            "access-control-allow-origin": "*",
+            "alt-svc": "h3=\":443\"; ma=86400",
+            "cache-control": "no-cache, must-revalidate",
+            "cf-cache-status": "DYNAMIC",
+            "cf-ray": "8000c110ce995d07-DUR",
+            "content-type": "application/json",
+            "date": "Fri, 01 Sep 2023 21:54:52 GMT",
+            "openai-model": "gpt-3.5-turbo-0613",
+            "openai-organization": "user-jn1mza8su9vooehflrpkwjus",
+            "openai-processing-ms": "951",
+            "openai-version": "2020-10-01",
+            "server": "cloudflare",
+            "strict-transport-security": "max-age=15724800; includeSubDomains",
+            "x-ratelimit-limit-requests": "200",
+            "x-ratelimit-limit-tokens": "40000",
+            "x-ratelimit-remaining-requests": "197",
+            "x-ratelimit-remaining-tokens": "39981",
+            "x-ratelimit-reset-requests": "18m17.967s",
+            "x-ratelimit-reset-tokens": "28ms",
+            "x-request-id": "9fd117e96332197b1d5d36fcb5b1c5ab"
+        }
+    },
+    "ok": true,
+    "status": 200,
+    "statusText": "",
+    "type": "default",
+    "url": "https://api.openai.com/v1/chat/completions"
+}
